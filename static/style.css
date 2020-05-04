@@ -1,0 +1,23 @@
+    
+html, body {
+   margin: 0;
+   padding: 0;
+   height: 100%;
+   width: 100%;
+}
+
+text {
+   font-family: arial;
+   font-size: 12px;
+}
+
+text.blue { fill: mediumblue; }
+text.red { fill: crimson; }
+text.green { fill: darkgreen; }
+
+.axis path,
+.axis line {
+ fill: none;
+ stroke: slategray;
+ shape-rendering: crispEdges;
+}
