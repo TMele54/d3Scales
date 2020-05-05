@@ -158,7 +158,7 @@ function makeScales(){
 
     /**********************************************************************************/
     // Colors
-    var brewer = d3.entries(colorbrewer);
+    //var brewer = d3.entries(colorbrewer);
 
     // Ordinal Scales
     var a = d3.scale.ordinal().domain(OrdinalStrRP).rangePoints(RANGE);
