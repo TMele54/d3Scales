@@ -2,8 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a018d5e8-51ae-4914-a01c-00d187d4cc80" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/modules/mkdata/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/mkdata/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/bouncy_ball.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/clock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/comp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/d3-3d.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/d3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/orbit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/smart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/_index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/bounce.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/clock.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/compan.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/smart.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/staticIndex.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/staticIndex.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/ease.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/ease.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,9 +29,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
         <option value="JavaScript File" />
-        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -74,6 +90,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -157,18 +181,20 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tonym\projects\d3Scales\templates" />
+      <recent name="C:\Users\tonym\projects\d3Scales\static\js" />
+      <recent name="C:\Users\tonym\OneDrive\AAM_Portfolio\d34di\static" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\tonym\OneDrive\AAM_Portfolio\d34di\static\js" />
       <recent name="C:\Users\tonym\OneDrive\AAM_Portfolio\d34di\static\css" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\tonym\OneDrive\AAM_Portfolio\d34di\static" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -182,7 +208,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588395571196</updated>
-      <workItem from="1650333928973" duration="1701000" />
+      <workItem from="1650333928973" duration="2470000" />
+      <workItem from="1650410862155" duration="151000" />
+      <workItem from="1650734137868" duration="204000" />
+      <workItem from="1650981447787" duration="24000" />
+      <workItem from="1661474820526" duration="6606000" />
+      <workItem from="1661519829974" duration="1800000" />
+      <workItem from="1661576743342" duration="24622000" />
+      <workItem from="1661659273369" duration="8880000" />
+      <workItem from="1661694304341" duration="3247000" />
     </task>
     <servers />
   </component>
@@ -219,9 +253,6 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -233,7 +264,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/static/js/lineChart.js</url>
           <line>7335</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
